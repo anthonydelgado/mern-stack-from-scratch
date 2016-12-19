@@ -14,7 +14,7 @@ npm install --save express react react-dom mongoose
 ## devDependencies
 
 ``
-npm install --save-dev
+npm install webpack babel-core babel-loader babel-preset-react babel-preset-es2015 concurrently --save-dev
 ``
 
 * webpack
